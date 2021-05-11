@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">黑发不知勤学早，白首方悔读书迟。</p>
+<p align="center">Stay Hungry Stay Foolish</p>
 
 - 🔭 I’m a Chinese developer currently living in Shenzhen, Guangdong
 - 🌱 I’m interested in TypeScript, React, Babel, Compiler...
