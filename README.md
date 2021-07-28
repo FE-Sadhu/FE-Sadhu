@@ -15,12 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">Hi there 👋</p>
-
-- 🔭 I’m a Chinese developer currently living in Shenzhen, Guangdong
-- 🌱 I’m interested in TypeScript, React, Babel, Compiler...
-- 💻 Love to build wheels
-- 🥳 Open Source champion
-- 📫 How to reach me: sadhu.wu@gmail.com
+<div style="margin-left: 50px">
+<p align="center">Hi there 👯</p>
+<p>
+  🔭 I’m a Chinese developer currently living in Shenzhen, Guangdong
+  <br>
+  🌱 I’m interested in TypeScript, React, Babel, Compiler...
+  <br>
+  💻 Love to build wheels
+  <br>
+  🥳 Open Source champion
+  <br>
+  📫 How to reach me: sadhu.wu@gmail.com
+</p>
+</div>
 
 
