@@ -1,3 +1,3 @@
 <div style="align: center">
-  <img height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+  <p>If the path be beautiful, let us not ask where it leads.</p>
 </div>
